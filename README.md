@@ -2,6 +2,8 @@
 A short racing game for mobile platform developed by following tutorials created by Imphenzia.  
 His channel: https://www.youtube.com/channel/UCzfWju7SFoWLCyV_gDVCrGA  
 
+This mobile game was originally submitted as one of the course assignments during my study on a Higher Diploma, now uploading to GitHub for building my portfolio.
+
 # Resources used in RACE  
 Font: https://www.1001fonts.com/video-game-fonts.html?page=3  
 
